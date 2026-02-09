@@ -9,7 +9,18 @@ Skilled in  C/C++, Java, JavaScript, Graphic Designing, logo designing and commu
 - 💼 Building projects on GitHub and Java.    
 - 💬 Ask me about JavaScript, React.  
 - 📫 Reach me at: rimakalita345@gmail.com  
-- ⚡ Fun fact: I love exploring tech startups and new project ideas.   
+- ⚡ Fun fact: I love exploring tech startups and new project ideas.
+
+
+## 🛠️ Tech Stack  
+- Frontend: HTML, CSS, JavaScript  
+- Backend:  SQL
+- Database: MongoDB, Firebase
+- Programming Languages: C, Java, C++
+- Tools: Excel, Powerpoint, MySQL
+- Other Tools: Git, GitHub, VS Code
+
+
 
 <!--
 **Rima-Kalita/Rima-Kalita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
