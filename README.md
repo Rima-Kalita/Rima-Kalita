@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Rima Kalita 
+
+I'm a Tech Enthusiast passionate about building web apps with GItHub and exploring Full Stack.    
+Passionate and detail-oriented Computer Applications postgraduate specializing in Full Stack.  
+Proven ability to design responsive, user-focused web applications for real-world problem.   
+Skilled in  C/C++, Java, JavaScript, Graphic Designing, logo designing and communication skills.  
+
+- 🌱 Currently learning MERN and Firebase  
+- 💼 Building projects on GitHub and Java.    
+- 💬 Ask me about JavaScript, React.  
+- 📫 Reach me at: rimakalita345@gmail.com  
+- ⚡ Fun fact: I love exploring tech startups and new project ideas.   
 
 <!--
 **Rima-Kalita/Rima-Kalita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
