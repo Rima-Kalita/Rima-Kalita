@@ -17,21 +17,28 @@
 
 ## 📌 Projects
 
+### 🔹 ParkEase (Group Project)
+- Developed a smart parking management system to identify available parking spaces  
+- Worked on frontend using HTML, CSS, and JavaScript  
+- Collaborated in a team to design user-friendly interface and system workflow  
+- Improved parking efficiency by enabling quick space detection  
+
 ### 🔹 Meter Reading Management System
-- Web-based system to manage electricity meter readings  
-- Allows users to submit readings and admins to monitor data  
-- Built during internship at APDCL  
+- Web-based system to manage electricity meter readings digitally  
+- Enabled users to submit readings and admins to monitor data  
+- Improved efficiency in billing and reduced manual errors  
+- Developed during internship at APDCL  
 
 ### 🔹 (In Progress) Task Manager API (Node.js)
 - Developing RESTful API with CRUD operations  
-- Implementing JWT-based user authentication  
+- Implementing JWT-based authentication  
 - Testing APIs using Postman  
 
 ### 🔹 (Upcoming) Placement Management System (MERN)
-- Full-stack web application  
-- Student login, resume upload, admin dashboard  
-- Designed for college placement management  
-
+- Full-stack web application for college placement management  
+- Features include student login, resume upload, and admin dashboard  
+- Designed to streamline recruitment process
+  
 ---
 
 ## 🏆 Certifications
