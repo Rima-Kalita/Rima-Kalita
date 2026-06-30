@@ -1,57 +1,138 @@
-# Hi, I'm Rima Kalita 👩‍💻
+# Hi, I'm Rima Kalita 👋
 
 🎓 MCA Student at C-DAC Noida (Affiliated to GGSIPU)  
-💻 Aspiring Full Stack Developer  
-🚀 Passionate about building real-world web applications  
+💻 Full Stack MERN Developer | AI Enthusiast  
+🚀 Passionate about building scalable web applications and solving real-world problems through technology.
 
 ---
 
-## 🔧 Skills
-- Java, Python, JavaScript  
-- HTML, CSS, Bootstrap  
-- Node.js (Learning)  
-- SQL (Basic)  
-- Git & GitHub  
+# 🚀 About Me
+
+- 🌱 Currently building **JobConnect** and **DesignVault**
+- 💡 Interested in Full Stack Development, AI Applications & Backend Engineering
+- 📚 Practicing Data Structures & Algorithms (Java)
+- 🎯 Preparing for Software Development roles at Product-Based Companies
 
 ---
 
-## 📌 Projects
+# 🛠️ Tech Stack
 
-### 🔹 ParkEase (Group Project)
-- Developed a smart parking management system to identify available parking spaces  
-- Worked on frontend using HTML, CSS, and JavaScript  
-- Collaborated in a team to design user-friendly interface and system workflow  
-- Improved parking efficiency by enabling quick space detection  
+### 💻 Languages
+- Java
+- Python
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-### 🔹 Meter Reading Management System
-- Web-based system to manage electricity meter readings digitally  
-- Enabled users to submit readings and admins to monitor data  
-- Improved efficiency in billing and reduced manual errors  
-- Developed during internship at APDCL  
+### 🎨 Frontend
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Framer Motion
 
-### 🔹 (In Progress) Task Manager API (Node.js)
-- Developing RESTful API with CRUD operations  
-- Implementing JWT-based authentication  
-- Testing APIs using Postman  
+### ⚙️ Backend
+- Node.js
+- Express.js
 
-### 🔹 (Upcoming) Placement Management System (MERN)
-- Full-stack web application for college placement management  
-- Features include student login, resume upload, and admin dashboard  
-- Designed to streamline recruitment process
-  
----
+### 🗄️ Database
+- MongoDB
+- SQL
 
-## 🏆 Certifications
-- HackerRank Frontend Developer (React)  
-- HackerRank SQL  
-- HackerRank Node.js (Intermediate)  
-
----
-
-## 📫 Connect with Me
-- Email: rimakalita345@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/rima-kalita-241414221/  
+### 🔧 Tools & Technologies
+- Git & GitHub
+- REST APIs
+- Postman
+- Socket.io
+- JWT Authentication
+- Cloudinary
+- Figma
 
 ---
 
-⭐ Currently improving DSA, Backend Development, and building strong projects for placements.
+# 📌 Featured Projects
+
+## 🤖 JobConnect *(Currently Building)*
+
+**AI-Powered Job Recommendation Platform**
+
+**Tech Stack:** React.js, Tailwind CSS, Framer Motion, Node.js, Express.js, MongoDB, Socket.io
+
+- Developing a full-stack AI-powered job recommendation platform using the MERN Stack.
+- Building a skill-based job matching algorithm for personalized recommendations.
+- Implementing real-time job search and advanced filtering.
+- Creating Student Dashboard and Company Admin Panel.
+- Adding saved jobs, application tracking, and real-time notifications.
+- Designing a modern and responsive UI with smooth animations.
+
+---
+
+## 🎨 DesignVault *(Currently Building)*
+
+**Freelance Designer Marketplace**
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io, Stripe, Cloudinary
+
+- Developing a marketplace connecting designers with clients.
+- Building designer portfolio management and project marketplace.
+- Implementing real-time messaging using Socket.io.
+- Integrating secure escrow payments with Stripe.
+- Creating project tracking, reviews, and rating systems.
+- Developing a smart designer-project matching algorithm.
+
+---
+
+## 🚗 ParkEase *(College Group Project • 2025)*
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+- Developed a Smart Parking Management System as a college group project.
+- Designed a responsive frontend to display parking slot availability.
+- Collaborated with team members to build an efficient parking solution.
+- Improved parking management through a user-friendly interface.
+
+---
+
+## ⚡ Meter Reading Management System *(2023)*
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+- Developed during my BCA.
+- Built a web-based electricity meter reading management system.
+- Enabled users to submit meter readings digitally.
+- Developed an admin dashboard for monitoring and managing records.
+- Reduced manual errors and improved billing efficiency.
+
+---
+
+# 🏆 Certifications
+
+- 🏅 HackerRank Frontend Developer (React)
+- 🏅 HackerRank SQL
+
+---
+
+# 📈 Currently Learning
+
+- Advanced MERN Stack
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- AI-Powered Web Applications
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** rimakalita345@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/rima-kalita-241414221/
+
+🐙 **GitHub:**  
+https://github.com/Rima-Kalita
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+*"Building impactful software, one project at a time."*
