@@ -23,6 +23,8 @@
 - JavaScript (ES6+)
 - HTML5
 - CSS3
+- C#
+- .NET
 
 ### 🎨 Frontend
 - React.js
@@ -41,10 +43,8 @@
 ### 🔧 Tools & Technologies
 - Git & GitHub
 - REST APIs
-- Postman
 - Socket.io
 - JWT Authentication
-- Cloudinary
 - Figma
 
 ---
